@@ -1,0 +1,47 @@
+<style>
+  p.pos_fix{
+      position:fixed;
+      top:-100px;
+      right:5px;
+            }
+  #header{
+      text-align:center;
+      background-color:yellow;
+      padding:10;
+      margin:10;
+      border:30;
+      position:center;
+      }
+
+  #content_area{
+      background-color:red;
+      text-align:center;
+      float: middle;
+      width:auto;
+      height:400px;
+      }
+
+  #footer{
+      background-color: yellow;
+      padding:auto;
+      margin:auto;
+      border:auto;
+      text-align:center;
+      }
+
+  #sidebar{
+      float:center
+      }
+  h2{
+    text-align:center;
+    color:black;
+    }
+  p{
+    color:blue;
+    text-align:center;
+    }
+
+    a:link{color:white;}
+    a:visited:{color:black;}
+
+  </style>

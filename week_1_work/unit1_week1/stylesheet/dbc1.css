@@ -1,0 +1,31 @@
+<style>
+
+body 
+{
+  background-color:purple;
+}
+h1
+{
+  color:red;
+  text-align:center;
+}
+
+p
+{
+  font-family:"Condiment";
+  font-size:30px;
+  text-align:center;
+}
+
+.wrapper{
+  width: 100%;
+  max-width:1400px;
+  margin:2 auto;
+}
+
+.turn-blue:hover{
+  background-color:orange;
+  color:black;
+}
+
+</style>
